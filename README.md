@@ -16,9 +16,6 @@ Or install it yourself as:
 
     $ gem install html5sortable-rails
 
-## Usage
-
-TODO: Write usage instructions here
 
 ## Development
 
