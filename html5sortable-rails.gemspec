@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["kendocode"]
   spec.email         = ["info@kendocoding.com"]
 
-  spec.summary       = "Wraps the excellent html5sortable javascript library ofr easy inclusion in the Rails Asset Pipeline."
+  spec.summary       = "Wraps the excellent html5sortable javascript library for easy inclusion in the Rails Asset Pipeline."
   spec.homepage      = "https://github.com/kendocode/html5sortable-rails.git"
   spec.license       = "MIT"
 
