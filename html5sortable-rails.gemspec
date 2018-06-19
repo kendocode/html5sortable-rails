@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = "html5sortable-rails"
   spec.version       = Html5sortable::Rails::VERSION
   spec.authors       = ["kendocode"]
-  spec.email         = ["git@kendocoding.com"]
+  spec.email         = ["info@kendocoding.com"]
 
   spec.summary       = "Wraps the excellent html5sortable javascript library ofr easy inclusion in the Rails Asset Pipeline."
   spec.homepage      = "https://github.com/kendocode/html5sortable-rails.git"
